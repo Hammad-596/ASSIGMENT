@@ -1,0 +1,1 @@
+import logo from"/logo.svg.js";const _ref=document.createElement("link");_ref.rel="stylesheet",_ref.href="/App.css",document.head.appendChild(_ref);function App(){return React.createElement("div",{className:"App"},React.createElement("div",null," hello world in this web"))}export default App;

@@ -1,11 +1,14 @@
 import logo from './logo.svg';
 import './App.css';
-import list from "./list";
+import list from 'src./list.js';
 
 function App() {
   return (
     <div className="App">
-       list = (document.getelementby id(list));
+       hello world
+       <h3>
+         <div> src = list.js</div>
+       </h3>
     </div>
   );
 }
